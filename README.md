@@ -7,3 +7,4 @@
 Наименование|Описание
 -|-
 [WebReference](https://webref.ru/)|Руководства по веб-технологиям
+[JavaScript.ru](https://learn.javascript.ru/)|Современный учебник JavaScript
