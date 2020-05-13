@@ -10,3 +10,4 @@
 [JavaScript.ru](https://learn.javascript.ru/)|Современный учебник JavaScript
 [Шпаргалка Flexbox](https://tpverstak.ru/flex-cheatsheet/)|Шпаргалка по Flexbox CSS
 [Htm5Book](https://html5book.ru/)|Сайт для тех, кто изучает веб-технологии и создает сайты
+[ИТ Шеф](https://itchief.ru/)|Уроки, статьи и рецепты по HTML, CSS, JavaScript, jQuery, Bootstrap, PHP и CMS MODX
