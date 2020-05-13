@@ -9,3 +9,4 @@
 [WebReference](https://webref.ru/)|Руководства по веб-технологиям
 [JavaScript.ru](https://learn.javascript.ru/)|Современный учебник JavaScript
 [Шпаргалка Flexbox](https://tpverstak.ru/flex-cheatsheet/)|Шпаргалка по Flexbox CSS
+[Htm5Book](https://html5book.ru/)|Сайт для тех, кто изучает веб-технологии и создает сайты
