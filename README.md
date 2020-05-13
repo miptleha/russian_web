@@ -8,3 +8,4 @@
 -|-
 [WebReference](https://webref.ru/)|Руководства по веб-технологиям
 [JavaScript.ru](https://learn.javascript.ru/)|Современный учебник JavaScript
+[Шпаргалка Flexbox](https://tpverstak.ru/flex-cheatsheet/)|Шпаргалка по Flexbox CSS
