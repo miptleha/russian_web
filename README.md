@@ -11,3 +11,14 @@
 [Шпаргалка Flexbox](https://tpverstak.ru/flex-cheatsheet/)|Шпаргалка по Flexbox CSS
 [Htm5Book](https://html5book.ru/)|Сайт для тех, кто изучает веб-технологии и создает сайты
 [ИТ Шеф](https://itchief.ru/)|Уроки, статьи и рецепты по HTML, CSS, JavaScript, jQuery, Bootstrap, PHP и CMS MODX
+[Bootstrap]()|Документация на русском по bootstrap
+
+## Курсы
+
+Наименование|Описание
+-|-
+[Яндекс.Практикум](https://praktikum.yandex.ru/)|Сервис онлайн-образования от Яндекс
+[Stepik](https://stepik.org/catalog)|Бесплатные курсы на любую тему
+[HTML Academy](https://htmlacademy.ru/)|Интерактивные онлайн-курсы по HTML, CSS и JavaScript
+[Хекслет](https://ru.hexlet.io/courses?pricing_type_eq=free)|Курсы по программированию
+
