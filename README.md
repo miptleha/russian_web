@@ -21,4 +21,5 @@
 [Stepik](https://stepik.org/catalog)|Бесплатные курсы на любую тему
 [HTML Academy](https://htmlacademy.ru/)|Интерактивные онлайн-курсы по HTML, CSS и JavaScript
 [Хекслет](https://ru.hexlet.io/courses?pricing_type_eq=free)|Курсы по программированию
+[ВебШейк](https://webshake.ru/)|Это проект для тех, кто хочет обучиться программированию на PHP
 
