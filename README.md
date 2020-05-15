@@ -23,4 +23,5 @@
 [Хекслет](https://ru.hexlet.io/courses?pricing_type_eq=free)|Курсы по программированию
 [ВебШейк](https://webshake.ru/)|Это проект для тех, кто хочет обучиться программированию на PHP
 [WebForMySelf](https://www.youtube.com/user/webformyself/playlists) | Ютюб канал с курсами по сайтостроению
+[ПростоРазработка](https://www.youtube.com/channel/UCn-P_F0tfY21cfnkyv2lsRQ/videos) | Ютюб канал современной верстки
 
