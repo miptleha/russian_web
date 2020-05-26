@@ -12,6 +12,7 @@
 [Htm5Book](https://html5book.ru/)|Сайт для тех, кто изучает веб-технологии и создает сайты
 [ИТ Шеф](https://itchief.ru/)|Уроки, статьи и рецепты по HTML, CSS, JavaScript, jQuery, Bootstrap, PHP и CMS MODX
 [Bootstrap](https://bootstrap-4.ru/)|Документация на русском по bootstrap
+[TuHub](https://tuhub.ru/)|О фронтенде
 
 ## Конструкторы сайтов
 
