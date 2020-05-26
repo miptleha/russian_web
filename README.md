@@ -13,6 +13,7 @@
 [ИТ Шеф](https://itchief.ru/)|Уроки, статьи и рецепты по HTML, CSS, JavaScript, jQuery, Bootstrap, PHP и CMS MODX
 [Bootstrap](https://bootstrap-4.ru/)|Документация на русском по bootstrap
 [TuHub](https://tuhub.ru/)|О фронтенде
+[WebForMySelf](https://webformyself.com/uroki-i-stati/)|Материалы и статьи
 
 ## Конструкторы сайтов
 
