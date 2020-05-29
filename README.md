@@ -15,7 +15,7 @@
 [TuHub](https://tuhub.ru/)|О фронтенде
 [WebForMySelf](https://webformyself.com/uroki-i-stati/)|Материалы и статьи
 [GoldBusinessNet](https://goldbusinessnet.com/)|Создание сайтов и заработок в сети
-[BogdanovBlog](http://bogdanov-blog.ru/)|Прикольный блог
+[Блогус](http://bogdanov-blog.ru/)|Прикольный блог
 
 ## Конструкторы сайтов
 
